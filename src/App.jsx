@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import SocialLogin from "./components/SocialLogin";
 import InputField from "./components/InputField";
 
@@ -18,7 +19,7 @@ const App = () => {
       </form>
 
       <p className="signup-prompt">
-        Don&apos;t have an account? <a href="#" className="signup-link">Sign up</a>
+        Don&apos;t have an account? <Link to="/signup" className="signup-link">Sign up</Link>
       </p>
     </div>
   )
