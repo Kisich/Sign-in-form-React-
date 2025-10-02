@@ -10,9 +10,5 @@
 
 Click on the `localhost` link that appears in the terminal to open the project in your browser and check its functionality.
 
-If you get an error or get stuck, feel free to message me on Buy Me a Coffee.
-[Buy Me A Coffee](https://www.buymeacoffee.com/codingnepal)
 
----
 
-Happy coding!
